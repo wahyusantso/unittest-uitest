@@ -1,14 +1,5 @@
 package com.home.belajartesting
 
-import androidx.appcompat.app.AppCompatActivity
-import android.os.Bundle
-
-class MainActivity : AppCompatActivity() {
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
-    }
-}
 /*
 - JUnit digunakan untuk melakukan unit test, sedangkan Mockito digunakan sebagai mock object.
   Fungsi dari mock object adalah mereplika objek yang digunakan oleh objek yang sedang di-test.
