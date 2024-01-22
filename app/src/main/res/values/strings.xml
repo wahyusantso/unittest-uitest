@@ -9,4 +9,6 @@
     <string name="height">Tinggi</string>
     <string name="length">Panjang</string>
     <string name="save">Simpan</string>
+    <!--latihan viewmodel app resource-->
+    <string name="calculate">Hitung</string>
 </resources>

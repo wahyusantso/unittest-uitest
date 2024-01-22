@@ -9,6 +9,7 @@ import androidx.test.internal.runner.junit4.AndroidJUnit4ClassRunner
 import org.junit.Before
 import org.junit.Test
 import org.junit.runner.RunWith
+import com.home.belajartesting.R
 
 @RunWith(AndroidJUnit4ClassRunner::class)
 class CalculateActivityTest {

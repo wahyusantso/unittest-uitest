@@ -13,6 +13,9 @@
         android:theme="@style/Theme.BelajarTesting"
         tools:targetApi="31">
         <activity
+            android:name=".latihanviewmodelapp.MainActivityLatihanViewmodel"
+            android:exported="false" />
+        <activity
             android:name=".calculateapp.CalculateActivity"
             android:exported="true">
             <intent-filter>
